@@ -19,9 +19,9 @@ Taking a Downing course again, I am reminded of the sublties of sitting in on hi
   
 ---
 
-*What did I do this past week?
+* What did I do this past week?
   -set up environments and get books bought
-*What's in your way?
+* What's in your way?
   -nothing, really, as to next week I believe I can knockout the projects, since the two courses have the same projects, just in different languages.
-*What will I do next week?
+* What will I do next week?
   -focus on career fair
