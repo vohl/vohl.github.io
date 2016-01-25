@@ -25,3 +25,8 @@ Taking a Downing course again, I am reminded of the sublties of sitting in on hi
   -nothing, really, as to next week I believe I can knockout the projects, since the two courses have the same projects, just in different languages.
 * What will I do next week?
   -focus on career fair
+
+---
+
+#Tip-of-the-Week
+Auditting classes. Honestly this is just an basic tip that was easy for me to think of cause I'm sitting in two at the moment, Distributed Systems, and Competitive Programming. Knowing how we have limits on number of classes it an easy way to judge a topic of a field you think you may be interested in, or if it your last semester, a good avenue to enjoy lectures of some of our highly esteemed faculty members like, Alvisi, before you leave this wonderful place.
