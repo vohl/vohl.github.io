@@ -3,9 +3,6 @@ layout: post
 title: DOUBLE-DOWNING
 ---
 
-image:
-  feature: miso_sexy.jpg
-
 Well here we go for the last semester of my college experience.This is not my first rodeo in a Downing course as I have taken Generics back when they were offering it, and now I am double-downing(my slang for attacking two of his courses at the same time), and am looking forward to a not so grueling semester while learning practical and applicable software engineering skills outside of just coding. The first week has served as a refresher into our core languages that we use in both course: C++ for OOP, and Python for SWE. I've been setting up my environments for all of my classes and purchasing all of the textbooks I need for such classes, this past week. For next week, I am planning on sitting down and churning out the Collatz project for both classes. Career fair is the next thing on my list, so I plan on focusing on it when it comes along, as being gainfully employed is a necessary part of life. 
 
 #Object-Oriented Programming
