@@ -20,5 +20,5 @@ With the second week done and the first project out of the way I have to remind 
 
 #Tip-of-the-Week
 For you python users out there, I was introduced to an interesting python programming concept called decorators. I stumbled upon this functional programming concpet when I was looking at different ways to design a cache or utilize memoization on my function that computed the cycle length. What a decorator is, is a callable Python object that can be used to modify functions. The function is passed into the decorator as an argument and it returns the modified function. For my case, the decorator wrapped around my cycle length function and only called it when the computed value wasnt in the cache. This managed to keep the implementation elegant looking instead of muddy. 
-[https://technotroph.wordpress.com/2012/04/05/memoize-it-the-python-way/]
-[http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/]
+https://technotroph.wordpress.com/2012/04/05/memoize-it-the-python-way/
+http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/
